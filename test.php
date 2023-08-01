@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 /**
  * Password cracker
- * @param array $wordlist The wordlist
+ * @param string $wordlist The wordlist
  * @param string $password The hash of the password
  */
 class passwordCracker
